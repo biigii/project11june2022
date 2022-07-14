@@ -62,3 +62,16 @@ h1 {
     height: 400px;
   }
 }
+
+.lists {
+  list-style: none;
+}
+
+.nav li {
+  /* list-style-type: none; */
+  display: inline-block;
+}
+
+.slider li {
+  display: inline-block;
+}
